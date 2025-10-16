@@ -2,8 +2,7 @@
 
 This project analyzes the sentiment of Federal Open Market Committee (FOMC) statements to forecast future inflation expectations. It demonstrates a complete data science workflow, from data collection and feature engineering with advanced NLP models to systematic model evaluation.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YourUsername/YourRepoName/blob/main/FOMC_Sentiment_Analysis.ipynb)
-*(Note: Replace `YourUsername/YourRepoName` with your actual GitHub username and repository name)*
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Erfanhajiesmaeili/FOMC_Sentiment_Analysis/blob/main/FOMC_Sentiment_Analysis.ipynb)
 
 ---
 
