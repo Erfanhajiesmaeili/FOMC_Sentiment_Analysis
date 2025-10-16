@@ -23,10 +23,9 @@ The project is structured in six key parts as detailed in the notebook:
 
 The analysis concluded that the **XGBoost model, augmented with all text-based features, was the champion model.** It significantly outperformed all benchmarks, demonstrating the powerful predictive value of NLP-derived features in an economic context.
 
-* **Final Robust RMSE (from Walk-Forward Validation):** `0.4154`
+* **Final Robust RMSE (from Walk-Forward Validation):** `0.4509`
 
 ![Final Model Comparison](images/final_model_plot.png)
-*(Note: You will need to save your final XGBoost comparison plot into an `images` folder and name it `final_model_plot.png` for this to work.)*
 
 ---
 
